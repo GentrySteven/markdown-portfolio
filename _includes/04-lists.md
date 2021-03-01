@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Tacos.
+2. Dogs.
+3. Learning.
